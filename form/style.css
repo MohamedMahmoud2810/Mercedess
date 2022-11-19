@@ -1,0 +1,322 @@
+
+
+
+*
+{
+
+	margin:0px;
+	padding: 0px;
+
+}
+
+
+
+.head
+    {
+		display: flex;
+		background:#1b242d;
+		padding:20px;	
+		justify-content: space-between;	
+        
+    }
+
+
+a
+    {
+
+		text-decoration:none; 
+		font-style:bold;
+		font-family:Arial,Tahoma;  
+		font-size:30px;
+		margin:10px;
+		color:white;  	 
+    }
+
+.bd{
+	text-align: center;
+}
+.x1 ul li a:after{
+
+margin: 5px;
+
+
+	}
+.x1 ul li .aa:last-child:after{content:""; }
+
+
+
+
+.x1 a:hover
+
+	{
+
+		background-color:hsla(208, 53%, 29%, 0.98);
+	    transition:all .6s ease-in-out;
+	    border-radius:100px;
+	    padding:20px;
+	}
+
+
+
+
+
+.x1 li
+
+	{
+
+	    text-align:right; 
+		display:inline-block; 
+
+
+	}
+
+
+.x1
+
+	{
+
+	
+	}
+
+
+p {
+
+    font-size: 30px;
+    font-weight: bold;
+    color: #f7eeee;
+    text-shadow: 4px 6px 2px 0 black;
+    text-shadow: 4px 5px 2px #0c0c0c;
+    color: #c1d3e9;
+
+}  
+
+
+
+.mr #s1
+
+{
+font-size:50px; 
+background-color:#3a4c60; 
+border-radius:100px;
+padding:1px 10px;
+
+}
+
+.mr:hover
+
+	{
+
+		background-color:#1d2125;
+	    transition:all .6s ease-in-out;
+	    border-radius:100px;
+	    padding:10px;
+
+	    max-width:400px; 
+	}
+
+
+
+
+
+
+
+
+
+
+
+/**___________________________________________________BoOdy________________**/
+
+
+
+.p2 
+{
+	color:#ffffff;
+    font-weight:bold;
+    font-size:50px;   
+    
+
+}
+
+
+.rr {letter-spacing:10px;color:#ffff;  }
+
+.jj {letter-spacing:10px;color:#ffff;}
+
+.ff {letter-spacing:3px;color:#ffff;}
+
+
+#nnn
+	{
+
+font-family:perpetua Titling Mt; 
+border-color:white;
+height:30px;
+width:200px; 
+border-radius:80px; 
+text-align: center;
+color: #f03271;
+font-size:15px;
+font-weight:500;
+background-color:#fff;
+
+}
+
+
+
+.vv
+{
+	font-weight: bold;
+	border-radius:50px; 
+	font-size:30px;
+    width:210px;
+    height:50px; 
+    margin-bottom: 5px; 
+    
+}
+
+label,input {display:inline-block;}
+.rrr
+{
+	font-weight: bold;
+    text-align: center;
+	font-size:40px;
+    font-family:perpetua Titling Mt;  
+	color:#ffffff;
+}
+.ee 
+{
+	font-weight: bold;
+	font-size:25px;
+	font-family: Arial,Tahoma; 
+	color:color:#ffff;;
+}
+
+.yyy
+{
+  
+    font-weight: bold;
+    text-align: center;
+	font-size:40px;
+	color:#fff;
+    font-family:perpetua Titling Mt;  
+
+
+}
+.g
+{
+	font-weight: bold;
+	font-size:40px;
+	font-family: Arial,Tahoma; 
+	color:#c44d53;
+	background-color: rgba(242, 245, 244, 0.19);
+}
+
+label
+{
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.d
+{
+	font-weight: bold;
+text-align: center;
+	font-size:60px;
+	font-family: Arial,Tahoma;
+	color: black ; 
+}
+
+
+.o
+
+{   text-align: center;
+    height: 245px;
+    padding-top: 40px;
+    display: block;
+    height: 100px;
+    border: none;
+    outline: none;
+    color: #f03271;
+    font-size:25px;
+    font-weight:500;
+    background-color:#d2c5c505; 
+}
+
+
+textarea 
+
+{
+    overflow: overlay;
+    resize: vertical;
+
+   font: 400 13.3333px Arial;
+}	
+
+.bb
+{
+	width: 200px;
+	height: 50px;
+	text-align:center; 
+    border-radius:100px; 
+	background-color:#ffff; 
+}
+
+
+
+div
+
+{
+
+text-align: center;
+font-size:40px;
+background-color: black;
+margin:0px auto; 
+color: white;
+padding: 25px;
+margin-top: 15px;
+
+
+}
+
+
+.x4
+
+{
+
+
+background-color:#ef751126;
+
+}
+
+select{
+
+	background: transparent;
+	width: 250px;
+	padding: 4px;
+	font-size: 1em;
+	border: 1px solid #ddd;
+	height: 25px;
+
+	
+}
+
+
+.footer
+
+{
+
+background-color:#1b242d;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
